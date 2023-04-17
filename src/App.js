@@ -9,6 +9,9 @@ import Map from "./components/Map/Map";
 import { CssBaseline, Grid } from "@material-ui/core";
 const App = () => {
   const [places, setPlaces] = useState([]);
+
+  const [coordinates, setCooridnates] = useState({});
+  const [bounds, setBounds] = useState(null);
   useEffect(() => {
     getPlacesData().then((data) => {
       console.log(data);
@@ -25,7 +28,11 @@ const App = () => {
           <List />
         </Grid>
         <Grid item xs={12} md={8}>
-          <Map />
+          <Map
+            setCooridnates={setCooridnates}
+            setBounds={setBounds}
+            coordinates={coordinates}
+          />
         </Grid>
       </Grid>
     </>
