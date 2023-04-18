@@ -16,9 +16,9 @@
 <ul>
  <li>Save time and effort: Table Tracker eliminates the need to manually search for restaurants or browse through numerous websites and reviews to find a good     restaurant. It provides users with a convenient and easy way to locate restaurants and view relevant information such as menus and reviews in one place.</li>
 
-<li>Discover new restaurants: The website provides a comprehensive list of restaurants in the area, including those that users may not have been aware of previously. This can help users to broaden their food horizons and discover new dining experiences.</li></li></li>
+<li>Discover new restaurants: The website provides a comprehensive list of restaurants in the area, including those that users may not have been aware of previously. This can help users to broaden their food horizons and discover new dining experiences.</li>
 
-<li>Make informed decisions: By providing detailed information about each restaurant, including reviews and photos, Table Tracker can help users make informed decisions about where to dine. This can be especially helpful for users who are new to an area or looking to try something new.</li></li>
+<li>Make informed decisions: By providing detailed information about each restaurant, including reviews and photos, Table Tracker can help users make informed decisions about where to dine. This can be especially helpful for users who are new to an area or looking to try something new.</li>
 
 <li>Plan outings and special occasions: With the ability to filter by cuisine, price range, and distance, Table Tracker can help users plan outings and special occasions based on their preferences and requirements. Users can also save their preferred restaurants to their profile, making it easy to plan future visits.</li>
 </ul>
