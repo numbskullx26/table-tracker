@@ -17,7 +17,11 @@ const Map = ({ setCoordinates, setBounds, coordinates, places }) => {
         center={coordinates}
         defaultZoom={14}
         margin={(50, 50, 50, 50)}
-        options={" "}
+        options={{
+          disableDefaultUI: true,
+          zoomControl: true,
+          styles: mapStyles,
+        }}
         onChildClick={" "}
         onChange={(e) => {
           setCoordinates({ lat: e.center.lat, lng: e.center.lng });
@@ -40,7 +44,7 @@ const Map = ({ setCoordinates, setBounds, coordinates, places }) => {
                   variant="subtitle2"
                   gutterBottom
                 >
-                  {places.name}
+                  {place.name}
                 </Typography>
                 <img
                   className={classes.pointer}
