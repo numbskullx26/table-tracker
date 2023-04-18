@@ -5,7 +5,7 @@
 <hr>
 <br>
 <br>
-<p>Table Tracker is a website that utilizes the Google Maps API to help users find and locate the best restaurants in their area. When users visit the website, they are prompted to enter their location or a desired location to search for restaurants. Once entered, the website displays a map of the area with various restaurant options highlighted, making it easy for users to see which restaurants are nearby and to quickly find their location.</p>
+<p size='15'>Table Tracker is a website that utilizes the Google Maps API to help users find and locate the best restaurants in their area. When users visit the website, they are prompted to enter their location or a desired location to search for restaurants. Once entered, the website displays a map of the area with various restaurant options highlighted, making it easy for users to see which restaurants are nearby and to quickly find their location.</p>
 <br>
 <p>The website provides a range of options to refine the search, such as filtering by cuisine, price range, ratings, and distance from the user's location. Users can also view detailed information about each restaurant, including reviews, photos, menus, and opening hours. This information can help users make an informed decision about which restaurant to choose.</p>
 <br>
