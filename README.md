@@ -37,4 +37,4 @@
   <li>Google Maps API</li>
 </ul>
 
-<h3 align="center">Made by Indrajeet with ❤️ @2023 || Thank You!</h3>
+<h3 align="center">Made by Indrajeet with ❤️ 2023 || Thank You!</h3>
