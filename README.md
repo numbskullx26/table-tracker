@@ -25,6 +25,8 @@
 
 <p>Overall, Table Tracker can help users save time and effort, discover new restaurants, make informed decisions, and plan outings and special occasions with ease.</p>
 
+<hr>
+
 <p>This project is a part of my learning journey. It is a Modern, fully responsive Web Application  titled as "TableTracker". It includes the proper implementation of the following tech stack:</p>
 
 <br>
@@ -34,3 +36,5 @@
   <li>Material-UI</li>
   <li>Google Maps API</li>
 </ul>
+
+<h3 align="center">Made by Indrajeet with ❤️ @2023 || Thank You!</h3>
